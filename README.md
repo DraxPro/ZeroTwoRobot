@@ -44,7 +44,14 @@
 
 * Bot Link:  <a href="https://t.me/SaitamaRobot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
 
+<summary>Steps to deploy on Heroku !! </summary>
 
+```
+Fill in all the details, Deploy!
+Now go to https://dashboard.heroku.com/apps/(app-name)/resources ( Replace (app-name) with your app name )
+Turn on worker dyno (Don't worry It's free :D) & Webhook
+Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
+```
 Should you be forking this repo then do not forget to star it.
 
 
