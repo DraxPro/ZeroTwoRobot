@@ -10,7 +10,7 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 Originally a Marie fork, ZeroTwo evolved further and was built to be more robust and more dedicated to Anime Chats. 
 
-Can be found on telegram as [ZeroTwo](https://t.me/Miss_RemBot).
+Can be found on telegram as [ZeroTwo](https://t.me/ZeroTwo_Kawaii_Bot).
 
 ## How to setup/deploy.
 
